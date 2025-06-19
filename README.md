@@ -1,0 +1,9 @@
+STUDENT NUMBER : ST10488397
+STUDENT NAME : ANAYO MNYANDA 
+GITHUB LINK :https://github.com/Anayo635/imadexam/new/master?filename=README.md
+
+The Music Playlist Manager is a Kotlin-based Android application designed to help users create and manage their music playlists. The app features a clean, user-friendly interface with three main screens: a Home Screen for adding and viewing songs, a Details Screen for reviewing song information, and a Map Screen to explore artist locations. Users can input song details like title, artist, rating (1-5), and comments, which are dynamically displayed and stored for easy access.On the Home Screen, users can view their current playlist in a scrollable list and add new songs through a simple form. The Details Screen provides an expanded view of all songs, including their ratings and comments, while also calculating the playlist’s average rating. The Map Screen integrates Google Maps to display markers for each artist’s location, offering a visual way to explore where the music originates. The app ensures seamless navigation between screens using Android’s intent system and maintains data consistency across all views.
+This app serves as a practical tool for music enthusiasts to organize and explore their playlists. Its intuitive design, combined with essential features like song tracking and artist mapping, makes it a solid foundation for further development. Whether used as-is or expanded, it offers a seamless experience for managing music collections on Android devices.
+
+![image](https://github.com/user-attachments/assets/4353c333-9f68-4dff-bc26-a8509ab8f4dd) this screenshot shows that our app is running ,it is showing how we add a song to playlist
+![image](https://github.com/user-attachments/assets/262bd021-2216-4c7e-9062-8516fad0bc36) this screenshot is showing the ratings for all the songs added to the playlist
